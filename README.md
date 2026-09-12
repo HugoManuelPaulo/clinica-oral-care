@@ -30,7 +30,7 @@ A web application for managing dental appointments, developed as the final gradu
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Hugopaulo1986/clinica-oral-care.git
+git clone https://github.com/hugomanuelpaulo/clinica-oral-care.git
 cd clinica-oral-care
 ```
 
