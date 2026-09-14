@@ -2,7 +2,7 @@ import { router } from "expo-router";
 import { Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from "react-native";
 import { AppointmentCard } from "@/src/components/AppointmentCard";
 import { AppHeader } from "@/src/components/AppHeader";
-import { nextAppointment, patient } from "@/src/data/mock";
+import { nextAppointment, patient } from "@/src/data/demoData";
 import { colors, shadow } from "@/src/theme";
 
 export default function HomeScreen() {
