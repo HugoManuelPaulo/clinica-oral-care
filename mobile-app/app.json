@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "OralCare",
+    "slug": "oralcare-mobile",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "scheme": "oralcare",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.hugopaulo.oralcare"
+    },
+    "android": {
+      "package": "com.hugopaulo.oralcare",
+      "adaptiveIcon": {
+        "backgroundColor": "#E8F5F1"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "static"
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
