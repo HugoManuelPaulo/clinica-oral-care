@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Alert, Pressable, SafeAreaView, ScrollView, StyleSheet, Text, View } from "react-native";
 import { AppHeader } from "@/src/components/AppHeader";
-import { availableDates, availableTimes } from "@/src/data/mock";
+import { availableDates, availableTimes } from "@/src/data/demoData";
 import { colors, shadow } from "@/src/theme";
 
 export default function AppointmentsScreen() {
