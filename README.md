@@ -25,6 +25,10 @@ A web application for managing dental appointments, developed as the final gradu
 - PHPMailer
 - Composer
 
+## Mobile app concept
+
+A cross-platform React Native/TypeScript patient app is available in [`mobile-app/`](mobile-app/). It runs on Android, iOS and web through Expo. The current mobile version uses fictional demonstration data and is intentionally isolated from real patient records.
+
 ## Installation
 
 ### 1. Clone the repository
