@@ -1,5 +1,5 @@
 import { Pressable, StyleSheet, Text, View } from "react-native";
-import type { Appointment } from "@/src/data/mock";
+import type { Appointment } from "@/src/data/demoData";
 import { colors, shadow } from "@/src/theme";
 
 type Props = { appointment: Appointment; onPress?: () => void };
