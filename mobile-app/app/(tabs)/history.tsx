@@ -1,6 +1,6 @@
 import { SafeAreaView, ScrollView, StyleSheet, Text, View } from "react-native";
 import { AppHeader } from "@/src/components/AppHeader";
-import { history } from "@/src/data/mock";
+import { history } from "@/src/data/demoData";
 import { colors } from "@/src/theme";
 
 export default function HistoryScreen() {
